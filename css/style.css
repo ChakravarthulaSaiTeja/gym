@@ -964,7 +964,7 @@ p {
   position: absolute;
   left: 0;
   top: -23px;
-  z-index: 1;
+  z-index: 11;
 }
 
 .menuBar .navbar-default {
@@ -1062,7 +1062,7 @@ p {
 }
 
 header.fixed .logo img {
-  max-width: 150px;
+  max-width: 100px;
   height: auto;
 }
 
